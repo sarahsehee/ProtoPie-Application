@@ -1,6 +1,6 @@
 
 var jumbotron = {
-	"lead" : "Application",
+	"lead" : "",
 	"name" : "Sarah Sehee Lim",
 	"coverletter" : "A product designer working at ProtoPie",
 	"links" : [
