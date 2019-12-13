@@ -1,8 +1,8 @@
 
 var jumbotron = {
 	"lead" : "Application",
-	"name" : "Hi, ProtoPie!",
-	"coverletter" : "My name is Sarah Sehee Lim. This is my web application including a cover letter, resume and portfolio for <span>a patissier position<\/span>. Throughout all pages on this website, every single moving images including .gif and videos are made with ProtoPie🙌 <br><br> As an international student in the States, I’ve always encountered language barriers in design critique sessions and presentations. Back then, there weren’t many choices of prototyping tools other than pen-and-paper mockup and form core. Rarely some students dived into the sea of coding, but not many people returned successfully. Prototyping wasn’t a tremendous issue because everyone was quite satisfied with their filthy paper models like Pop!<br> My concern about effective communication escalated as soon as I landed in Silicon Valley as an interaction designer. Unlike hardware products that I studied in school, there are too many screens, animations, and endless iterations after multiple cycles of user testing. It was impossible to get a tool that is \"just right\". I spend overnight working on a prototype that is half-done, failed to get a feedback I desperately needed and couldn’t go on mythical five-person usability testing because I was already exhausted from prototyping.<br><br>I believe my journey to find a just-right prototyping tool and a broad range of interaction design career will work like magical sprinkles in baking future Pies. I am ready to join ProtoPie to help fellow designers to save their precious time and get confident in their design process as I did✨",
+	"name" : "Sarah Sehee Lim",
+	"coverletter" : "A product designer working at ProtoPie",
 	"links" : [
 		{
 			"text" : "Check out resume",
